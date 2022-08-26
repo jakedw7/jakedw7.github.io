@@ -11,7 +11,7 @@ containerized database server for my professional projects.  In
 this post, I describe the process of installing the Proxmox
 software that most of my services will sit on top of.
 
-![Proxmox Title Screen](/assets/img/SS-3-3.png)(: .mx-auto.d-block :)
+![Proxmox Title Screen](/assets/img/SS-3-3.png)
 
 Most of what I have done here was based on tutorials from various
 homelab builders on YouTube.  I have not had to dive into Reddit
@@ -43,7 +43,7 @@ useable in the system is not very obvious at first.  Basically,
 when you setup the system, you have to drill down to the specific
 server ("PVE" by default) and then click disks.
 
-![Proxmox Disk List](/assets/img/SS-3-1.png)(: .mx-auto.d-block :)
+![Proxmox Disk List](/assets/img/SS-3-1.png)
 
 **But** none of these disks are actually useable yet aside from
 the drive that the operating system is installed on.  The user 
@@ -58,7 +58,7 @@ may be getting replaced very shortly.
 I am doing this as a homelab, not a commercial user.  But Proxmox
 likes to annoy me with this popup:
 
-![Proxmox Nag Screen](/assets/img/SS-3-2.png)(: .mx-auto.d-block :)
+![Proxmox Nag Screen](/assets/img/SS-3-2.png)
 
 Fortunately, this [Medium Post](https://medium.com/devops-dudes/proxmox-101-8204eb154cd5)
 takes the new user through the process.  _However_, while this
