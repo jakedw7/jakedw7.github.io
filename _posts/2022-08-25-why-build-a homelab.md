@@ -81,3 +81,6 @@ realistic
 Given these options, it is time for the homelab route.  Also, I would like to
 try some of the other suggested things that I have seen in the community
 for myself.  So here we go!
+
+Image credit:  Simeon W via [Wikipedia](https://commons.wikimedia.org/wiki/File:Home_Network_%2832942217494%29.jpg) 
+and Flicker
