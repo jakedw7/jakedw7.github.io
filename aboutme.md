@@ -6,15 +6,18 @@ subtitle: Who I am and why I am doing this
 
 My name is Jake Walter and I am a Civil Engineer with a specialty
 in software development.  This site is the starting page for a homelab
-that I am currently working on building.  The idea is to provide a
+that I am currently building.  The idea is to provide a
 diary of my objectives, reasoning, and plans for the system I am
-setting up at home.
+setting up at home.  This will help me track why I did things and,
+hopefully, not keep repeating the same mistakes.  It is also helping
+me to learn Jekyll, a static site generator created by Github.
 
 # Civil Engineer
-Just like doctors and lawyers, engineers of all types need to be
-licensed by the state they work in to practice engineering - this
-is a Professional Engineering license and, when we need to emphasize
-that we have that license, we put P.E. at the end of our names.
+My main title at work is Civil Engineer.  I help public agencies figure
+out how to allocate funding to maintenance project, optimize their
+maintenance processes, design asset evaluation programs, and manage
+the large amount of data that is used as the basis of many multi-million
+dollar budgets.
 
 ## What makes you so civil?
 I've heard this joke before.
@@ -47,7 +50,7 @@ I help agencies with limited money determine where to spend their money
 because they never have enough to address all their needs.
 
 # Software Developer
-How do I achieve these goals.  An infrastructure asset management project
+How do I achieve these goals?  An infrastructure asset management project
 is usually a very data driven field.  We collect data from our clients
 and supplement that data with our own through field testing and the use
 of public datasets.  What does that require?  Software, IT skills, and
